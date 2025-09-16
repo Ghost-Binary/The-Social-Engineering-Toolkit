@@ -1,6 +1,6 @@
 # Social Engineer Toolkit
 
-A curated collection of proof-of-concept tools for demonstrating social engineering attacks. This repository is maintained by GHOST-BINARY for educational and security research purposes only.
+A curated collection of proof-of-concept tools for demonstrating social engineering attacks. This repository is maintained by HaloRift for educational and security research purposes only.
 
 ---
 
@@ -8,7 +8,7 @@ A curated collection of proof-of-concept tools for demonstrating social engineer
 
 This toolkit is intended for **educational and ethical purposes exclusively**. The tools and techniques provided are designed to help cybersecurity students, security professionals, and ethical hackers understand and defend against social engineering attacks in a controlled and authorized environment.
 
-**Any actions and/or activities related to the material contained within this repository are solely your responsibility.** The misuse of this information can result in criminal charges. The author, GHOST-BINARY, will not be held responsible for any misuse of this toolkit. By using or downloading any code from this repository, you agree to do so lawfully and ethically.
+**Any actions and/or activities related to the material contained within this repository are solely your responsibility.** The misuse of this information can result in criminal charges. The author, HaloRift, will not be held responsible for any misuse of this toolkit. By using or downloading any code from this repository, you agree to do so lawfully and ethically.
 
 ---
 
